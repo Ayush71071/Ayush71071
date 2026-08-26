@@ -1,0 +1,8 @@
+{
+  "projects": [
+    { "repo": "SmartCRM", "description": "Multi-tenant B2B CRM — four roles with real RBAC, drag-and-drop pipeline, invoicing with payment reconciliation, and six AI tools that degrade to working heuristics with no API key." },
+    { "repo": "StayBnB", "description": "Airbnb clone with overlap-safe reservations, Stripe checkout (test mode + mock fallback), Leaflet maps, and a host earnings dashboard." },
+    { "repo": "tcongs-infotech", "description": "Home page rebuilt from a measured audit of the live original — fixed a WCAG contrast failure, cut a 53-link mega-menu to five, replaced 79 images with pure CSS." },
+    { "repo": "wavr_project", "description": "Music streaming app built around an audio singleton that keeps playback outside React's render cycle — no stuttering on re-render, no leaked audio elements." }
+  ]
+}
